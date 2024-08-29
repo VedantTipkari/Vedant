@@ -1,0 +1,101 @@
+body{
+
+    border:1px solid black;
+    margin: 5px;
+    padding: 15px;
+}
+
+
+#head{
+    width: 100%;
+    display: flex;
+}
+
+#head div{
+    width: 50%;
+   
+}
+
+#head div p{
+    float: right;
+    margin-right: 150px;
+    width: 75px;
+    border: 1px solid green;
+    padding: 40px 20px;
+    margin-top: -20px;
+}
+
+#head div hr{
+
+    width: 50%;
+    margin: 0px 50px;
+}
+
+#new div h3{
+    color: rgb(68, 125, 182);
+}
+
+#new div hr{
+    border-top: 1px solid rgb(68, 125, 182);
+}
+
+#new1 div h3{
+    color: rgb(68, 125, 182);
+}
+
+#new1 div hr{
+    border-top: 1px solid rgb(68, 125, 182);
+}
+
+#new2{
+    border-collapse: collapse;
+    height: 30%;
+    width: 90%;
+    margin-left: 40px;
+}
+
+#new2 tr td, th{
+    
+    border: 1px solid;
+}
+
+#new3 hr{
+    border-top: 1px solid rgb(68, 125, 182);
+    width: 20%;
+    margin: 0px 120px;
+}
+
+#new4 hr{
+    border-top: 1px solid rgb(68, 125, 182);
+    width: 20%;
+    margin: 0px 150px;
+}
+
+
+#new5  hr{
+    border-top: 1px solid rgb(68, 125, 182);
+    width: 20%;
+    margin: 0px 20px;
+}
+
+#new6  hr{
+    border-top: 1px solid rgb(68, 125, 182);
+    width: 20%;
+    margin: 0px 20px;
+}
+
+#new7  hr{
+    border-top: 1px solid rgb(68, 125, 182);
+    width: 20%;
+    margin: 0px 150px;
+}
+
+
+#new8{
+
+    float: right;
+    margin-right: 150px;
+}
+
+
+
